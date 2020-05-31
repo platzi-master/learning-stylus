@@ -10,5 +10,9 @@
     "stylus"
   ],
   "author": "Juan Jose Vega",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nib": "^1.1.2",
+    "stylus": "^0.54.7"
+  }
 }
