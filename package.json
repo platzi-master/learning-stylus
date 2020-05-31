@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "stylus": "stylus -u nib -c -w -o public/main.css src/styles/main.styl"
   },
   "keywords": [
     "stylus"
